@@ -1,0 +1,7 @@
+- Get: Nhận dữ liệu từ phía sever về client 
+
+	get sử dụng "query parameter" để đính dữ liệu lên URL còn post là gửi ngầm không hiện lên
+
+- Post: Khi muốn gửi dữ liệu từ phái client lên sever
+
+	URL, UI là phía client gửi "form data" đi lên máy chủ, API là phía sever
